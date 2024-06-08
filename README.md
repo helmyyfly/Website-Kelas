@@ -1,2 +1,2 @@
-# Website-Sekolah
-Sebuah Website Sekolah MA Unggulan Amanatul Ummah 02
+# Website-Kelas X-IPA 1
+Sebuah KElas X-IPA 1
